@@ -1,30 +1,27 @@
 # pagespeedinsights
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+*Automatically synced with your (https://umarhashmi.dev) deployments*
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/umarsamsung9988-3786s-projects/v0-pagespeedinsights)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/uvmHUTAdPb3)
+Visit The App: https://pagespeedpro.vercel.app/
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+This repository will stay in sync with your deployed chats on (https://umarhashmi.dev).
+Any changes you make to your deployed app will be automatically pushed to this repository from https://github.com/umarhashmi-dev/Page-Speed-Insight-Pro.
 
 ## Deployment
 
 Your project is live at:
-
-**[https://vercel.com/umarsamsung9988-3786s-projects/v0-pagespeedinsights](https://vercel.com/umarsamsung9988-3786s-projects/v0-pagespeedinsights)**
+https://pagespeedpro.vercel.app/
 
 ## Build your app
 
 Continue building your app on:
-
-**[https://v0.app/chat/projects/uvmHUTAdPb3](https://v0.app/chat/projects/uvmHUTAdPb3)**
+(https://umarhashmi.dev)
 
 ## How It Works
 
-1. Create and modify your project using [v0.app](https://v0.app)
+1. Create and modify your project using any AI
 2. Deploy your chats from the v0 interface
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
